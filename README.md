@@ -1,2 +1,2 @@
-# python-for-finance
-Python for Financial Analysis and Algorithmic Trading
+# Python-for-Finance-Repo
+Private Repo for Financial Analysis Course
